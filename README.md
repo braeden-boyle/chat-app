@@ -4,8 +4,6 @@ A simple JavaScript chat app using Firebase authentication for Google sign-in to
 
 My first experience with full-stack development in JavaScript.
 
-The app runs through [localhost:3000](http://localhost:3000).
+The app is currently not hosted.
 
 \- Braeden Boyle
-
-07/05/2024
